@@ -41,7 +41,7 @@ public class homework2
                     ar1[i] = 0;
                 } else ar1[i] = 1;
         }
-        private static void printMassive (int [] ar1) // приватный метод для распечаки массива из 1 и 2 задачи (может и дрругих)
+        private static void printMassive (int [] ar1) // приватный метод для распечатки массива из 1, 2 и 3 задачи
         {
             for (int i=0; i < ar1.length; i++) {
                 System.out.print(ar1[i] + " ");
